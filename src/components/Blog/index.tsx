@@ -7,22 +7,22 @@ const Blog = () => {
 	const posts = [
 		{
 			image: postImage,
-			author: "Amin Najva",
-			date: "Nov 15, 2023",
+			author: "Suhaib",
+			date: "Feb 15, 2025",
 			title: "Most Visited Countries In Last 3 Years",
 			description: "",
 		},
 		{
 			image: postImage2,
 			author: "Amin Najva",
-			date: "Nov 15, 2023",
+			date: "Jan 05, 2023",
 			title: "Most Visited Countries In Last 3 Years",
 			description: "",
 		},
 		{
 			image: postImage3,
-			author: "Amin Najva",
-			date: "Nov 15, 2023",
+			author: "ABhishek",
+			date: "Mar 03, 2023",
 			title: "Most Visited Countries In Last 3 Years",
 			description: "",
 		},

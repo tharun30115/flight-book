@@ -21,7 +21,7 @@ const Blog = () => {
 		},
 		{
 			image: postImage3,
-			author: "ABhishek",
+			author: "Abhishek",
 			date: "Mar 03, 2023",
 			title: "Most Visited Countries In Last 3 Years",
 			description: "",

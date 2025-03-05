@@ -2,7 +2,7 @@ const Footer = () => {
 	return (
 		<div className="w-full flex md:flex-row flex-col md:gap-0 gap-8 items-center justify-between py-8 px-10 border-t border-slate-300 border-dashed">
 			<span className="font-medium text-slate-700">
-				Copyright © 2023 Luxury Airs . All rights reserved.
+				made with ✨ by  <a href="https://github.com/tharun30115">tharun</a>
 			</span>
 			<div className="flex items-center gap-8">
 				<a

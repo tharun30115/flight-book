@@ -13,7 +13,7 @@ const Navbar = () => {
 	];
 	return (
 		<div className="z-[2] w-full my-auto mx-0 h-16 md:px-[200px] px-8 py-10 flex items-center justify-between absolute top-[20px]">
-			<span className="text-white text-[28px] font-semibold">Logo.</span>
+			<span className="text-white text-[28px] font-semibold">Flighty</span>
 			<div className="md:flex hidden items-center gap-7">
 				{navLinks.map((navLink) => {
 					return (
